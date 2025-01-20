@@ -1,2 +1,2 @@
 # Club-git
-this club git pracitce
+preview of github 
